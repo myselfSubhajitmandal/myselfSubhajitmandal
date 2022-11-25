@@ -1,5 +1,4 @@
-[![MasterHead]("https://giphy.com/embed/hx3VJAZMCaqVSOly3s"
-)]
+[![MasterHead]("https://giphy.com/embed/hx3VJAZMCaqVSOly3s")]
 <h1 align="center">Hi 👋, I'm Subhajit Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
