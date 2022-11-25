@@ -1,4 +1,4 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/hx3VJAZMCaqVSOly3s" width="480" height="174" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-code-coding-hx3VJAZMCaqVSOly3s">via GIPHY</a></p>
+[![MasterHead]("https://giphy.com/embed/hx3VJAZMCaqVSOly3s"
 )]
 <h1 align="center">Hi 👋, I'm Subhajit Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
